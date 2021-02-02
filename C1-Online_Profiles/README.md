@@ -8,6 +8,8 @@ For this assignment you will need to upload your resume and provide links to you
  
 ### GitHub
 Provide a link to your GitHub account here.
+
+[GitHub Account for Garrett Anderson](https://github.com/GTAnderson)
  
 ### LinkedIn
 Provide a link to your LinkedIn account here.
