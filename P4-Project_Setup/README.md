@@ -9,4 +9,4 @@ This assignment will get you set up and rolling with a basic project. By the end
 ### Project Repository
 Change this text with a link to your project repository here. Also add a README.md file to your project repository.
 
-[Basic HelloWorld Level Project](https://github.com/GTAnderson/HelloWorld.git)
+[Click here for Menu Planner project repository](https://github.com/GTAnderson/menu-planner.git)
